@@ -1,11 +1,11 @@
 # MarioMIM
 
 ## Description
-Since CLion has shown us the first segfaults, we wanted to write a computer game inspired by 
-the student’s adventure during pursuing a Computer Science degree. MarioMIM is a platform game 
-in which the idea is to ... pass. We’ve created a game inspired by Super Mario Bros, but in 
-a special University of Warsaw edition. In order to overcome bugs the student can strengthen himself 
-by drinking coffee or learning the best programming language - Rust.
+Since the moment CLion has shown us the first segfaults, we wanted to create a computer game inspired 
+by the student’s adventure of pursuing a Computer Science degree. MarioMIM is a platform game whose 
+main goal is to... get a degree. We’ve implemented a game inspired by Super Mario Bros, but in the 
+special University of Warsaw edition. In order to overcome bugs, the student can strengthen himself 
+by drinking coffee or learning the best programming language in the world - Rust.
 
 ## How to play
 - Online\
@@ -28,3 +28,10 @@ clone this repo and start the game by `cargo run` command
 ## Authors
 [Katarzyna Kloc](https://github.com/KatKlo) - kk429317@students.mimuw.edu.pl\
 [Patryk Bundyra](https://github.com/PBundyra) - pb429159@students.mimuw.edu.pl
+
+## Screenshots
+![alt text](./readme-photos/main-menu.png)
+![alt text](./readme-photos/game.png)
+![alt text](./readme-photos/shooting.png)
+![alt text](./readme-photos/valgrind.png)
+![alt text](./readme-photos/fail-menu.png)
