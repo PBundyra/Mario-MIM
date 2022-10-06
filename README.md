@@ -8,9 +8,9 @@ special University of Warsaw edition. In order to overcome bugs, the student can
 by drinking coffee or learning the best programming language in the world - Rust.
 
 ## How to play
-- Online\
+- **Online**\
 [click here!](https://pbundyra.github.io/wasm-deploy/)
-- Local\
+- **Local**\
 Set up your computer according to [this guide](https://bevyengine.org/learn/book/getting-started/setup/), 
 clone this repo and start the game by `cargo run` command
 
