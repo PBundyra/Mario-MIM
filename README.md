@@ -1,5 +1,9 @@
 # MarioMIM
 
+## Authors
+[Katarzyna Kloc](https://github.com/KatKlo) - kk429317@students.mimuw.edu.pl\
+[Patryk Bundyra](https://github.com/PBundyra) - pb429159@students.mimuw.edu.pl
+
 ## Description
 Since the moment CLion has shown us the first segfaults, we wanted to create a computer game inspired 
 by the student’s adventure of pursuing a Computer Science degree. MarioMIM is a platform game whose 
@@ -24,10 +28,6 @@ clone this repo and start the game by `cargo run` command
 - https://www.youtube.com/watch?v=j7qHwb7geIM&ab_channel=JeremyChone
 - https://www.youtube.com/watch?v=Yb3vInxzKGE&list=PL7r-PXl6ZPcCB_9zZFU0krBoGK3y5f5Vt&index=5&ab_channel=JeremyChone
 - https://github.com/bevyengine/bevy/tree/latest/examples
-
-## Authors
-[Katarzyna Kloc](https://github.com/KatKlo) - kk429317@students.mimuw.edu.pl\
-[Patryk Bundyra](https://github.com/PBundyra) - pb429159@students.mimuw.edu.pl
 
 ## Screenshots
 ![alt text](./readme-photos/main-menu.png)
